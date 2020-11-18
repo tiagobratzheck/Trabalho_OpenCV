@@ -1,0 +1,7 @@
+Professor Marcos.
+
+Unfortunately, I could not to train the software because of lack of time. 
+In spite of that, all the steps to train the model and run the algorithm project 
+can be found in the documentation, presented in the read me file. 
+
+Thank you very much!
